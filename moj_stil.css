@@ -1,8 +1,13 @@
  body
- {
+{
     background-image: url("racunalo1.jpg");
     /*background-color za cijelu pozadinu u jednoj boji*/
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat
- }
+}
+p{
+ font-family: Verdana,Helvetica,sans-serif;
+ /*sans-serif nije ukraseno, serif je ukraseni font*/
+ font-size: 12px;
+}
