@@ -1,6 +1,7 @@
  body
  {
     background-image: url("racunalo1.jpg");
+    /*background-color za cijelu pozadinu u jednoj boji*/
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat
