@@ -4,8 +4,8 @@
     /*background-color za cijelu pozadinu u jednoj boji*/
     background-position-y: top;
     background-position-x: right;
-    background-repeat: no-repeat
-    text-align: justify
+    background-repeat: no-repeat;
+    text-align: justify;
  /*tekst poravnati s obje strane*/
 }
 p{
