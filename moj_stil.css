@@ -5,6 +5,8 @@
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat
+    text-align: justify
+ /*tekst poravnati s obje strane*/
 }
 p{
  font-family: Verdana,Helvetica,sans-serif;
@@ -18,4 +20,14 @@ p.citat
   font-size: 11px;
   border: 1px solid #000;
   background-color: #ffffcc;
+}
+p.drugi
+{
+  font-color: "firebrick";
+  text-align: center;
+  text-decoration: underline;
+}
+p.treci
+{
+  text-align: right;
 }
