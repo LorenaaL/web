@@ -84,11 +84,11 @@ ul, li{
 ul li a:hover{
  text-decoration:none;
  border-left-color: #ccf;
- background-color: #ffffcc;
+ background-color: #f5058d;
 }
 ul ul li a:hover{
  text-decoration:none;
  border-left-color: #ccf;
- background-color: #ffffcc;
+ background-color: #f5058d;
 }
 
