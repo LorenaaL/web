@@ -113,8 +113,14 @@ text-decoration: none;
 #jahaci li a:hover {
 border-bottom-color: white;
 background-color: #eee
+color: #455372;
 }
 #jahaci li a:active {
 color #c00;
+}
+#aktivni
+color:#000;
+background: #fff;
+border-bottom-color: white;
 }
 
