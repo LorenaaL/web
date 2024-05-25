@@ -91,7 +91,9 @@ ul ul li a:hover{
  border-left-color: #ccf;
  background-color: #8dc9f7;
 }
-
+#jahaci li{
+display:inline;
+}
 #jahaci
 color: #000;
 border-bottom: 2px solid #455372;
